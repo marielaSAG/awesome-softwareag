@@ -1,8 +1,8 @@
-<h2 align="center">
-   Awesome Software AG</h2>
 <p align="center">
 <a href="https://www.softwareag.com/us/default.html"><img src="http://techcommunity.softwareag.com/download/developer-communities/logo.png"></a></br>
 </p>
+<h2 align="center">
+   Awesome Software AG</h2>
  <p align="center"><a href="https://awesome.re" rel="nofollow"><img src="https://camo.githubusercontent.com/1997c7e760b163a61aba3a2c98f21be8c524be29/68747470733a2f2f617765736f6d652e72652f62616467652e737667" alt="Awesome" data-canonical-src="https://awesome.re/badge.svg" style="max-width:100%;"></a></p>
 
 
