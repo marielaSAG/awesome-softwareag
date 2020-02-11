@@ -6,7 +6,7 @@
  <p align="center"><a href="https://awesome.re" rel="nofollow"><img src="https://camo.githubusercontent.com/1997c7e760b163a61aba3a2c98f21be8c524be29/68747470733a2f2f617765736f6d652e72652f62616467652e737667" alt="Awesome" data-canonical-src="https://awesome.re/badge.svg" style="max-width:100%;"></a></p>
 
 
- ### Contents
+### Contents
  * [webMethods](#webMethods)
  * [Cumulocity IoT](#Cumulocity-IoT)
  * [Adabas and Natural](#Adabas-and-Natural)
