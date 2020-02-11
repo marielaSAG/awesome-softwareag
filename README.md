@@ -7,11 +7,11 @@
 
 
 ## Contents
-* [webMethods](https://github.com/marielaSAG/awesome-softwareag#webMethods)
-* [Cumulocity IoT](https://github.com/marielaSAG/awesome-softwareag#Cumulocity-IoT)
-* [Adabas and Natural](https://github.com/marielaSAG/awesome-softwareag#Adabas-and-Natural)
-* [Aris](https://github.com/marielaSAG/awesome-softwareag#Aris)
-* [Alfabet](https://github.com/marielaSAG/awesome-softwareag#Alfabet)
+* [webMethods](#webMethods)
+* [Cumulocity IoT](#Cumulocity-IoT)
+* [Adabas and Natural](#Adabas-and-Natural)
+* [Aris](#Aris)
+* [Alfabet](#Alfabet)
  
 ## webMethods
  
